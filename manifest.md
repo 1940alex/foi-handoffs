@@ -2,14 +2,14 @@
 
 Canonical discovery page for continuing Future of Inquiry work in a fresh ChatGPT conversation.
 
-**Last updated:** 2026-09-04T21:15:00Z
+**Last updated:** 2026-09-04T21:15:45Z
 
 ## Active handoffs
 
 ### [TAE v8 planning handoff](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-04-tae-v8-planning-handoff.md)
 
 - **File:** 2026-09-04-tae-v8-planning-handoff.md
-- **Updated:** 2026-09-04T21:15:00Z
+- **Updated:** 2026-09-04T21:15:45Z
 - **Status:** active
 - **Conversation/project:** tae-v8-planning-2026-09-04
 
