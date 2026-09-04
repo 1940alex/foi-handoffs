@@ -2,6 +2,15 @@
     "schema_version":  1,
     "entries":  [
                     {
+                        "title":  "TAE v8 planning handoff",
+                        "filename":  "2026-09-04-tae-v8-planning-handoff.md",
+                        "url":  "https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-04-tae-v8-planning-handoff.md",
+                        "description":  "TAE v7 production state plus the v8 draft, replay contract, decisions, and open questions for the next conversation.",
+                        "updated_utc":  "2026-09-04T21:15:00Z",
+                        "status":  "active",
+                        "conversation_id":  "tae-v8-planning-2026-09-04"
+                    },
+                    {
                         "title":  "MagLab v51 certification and recording UI",
                         "filename":  "2026-08-26-v51-certification-ui-handoff.md",
                         "url":  "https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-08-26-v51-certification-ui-handoff.md",
