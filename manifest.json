@@ -2,12 +2,21 @@
     "schema_version":  1,
     "entries":  [
                     {
+                        "title":  "Sheldrake Field Project — TAE v45 and Results Console v22",
+                        "filename":  "2026-09-16-tae-v45-console-v22-handoff.md",
+                        "url":  "https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-16-tae-v45-console-v22-handoff.md",
+                        "description":  "Canonical scoring lock, console v22 cleanup, TAE v45 and analyzer v55 release state, live verification, and safe continuation instructions.",
+                        "updated_utc":  "2026-09-16T20:57:46Z",
+                        "status":  "active",
+                        "conversation_id":  "sheldrake-field-project-tae-console"
+                    },
+                    {
                         "title":  "MagLab FTPS run-fetch handoff",
                         "filename":  "2026-09-16-maglab-ftps-fetch-handoff.md",
                         "url":  "https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-16-maglab-ftps-fetch-handoff.md",
                         "description":  "Analyzer v53 FTPS-first run fetching, deployment state, verification, and the initial HTTPS backoff timing gotcha.",
                         "updated_utc":  "2026-09-16T17:46:53Z",
-                        "status":  "active",
+                        "status":  "superseded",
                         "conversation_id":  "sheldrake-field-project-maglab-ftps-fetch"
                     },
                     {

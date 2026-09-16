@@ -2,18 +2,18 @@
 
 Canonical discovery page for continuing Future of Inquiry work in a fresh ChatGPT conversation.
 
-**Last updated:** 2026-09-16T17:46:53Z
+**Last updated:** 2026-09-16T20:57:46Z
 
 ## Active handoffs
 
-### [MagLab FTPS run-fetch handoff](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-16-maglab-ftps-fetch-handoff.md)
+### [Sheldrake Field Project — TAE v45 and Results Console v22](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-16-tae-v45-console-v22-handoff.md)
 
-- **File:** 2026-09-16-maglab-ftps-fetch-handoff.md
-- **Updated:** 2026-09-16T17:46:53Z
+- **File:** 2026-09-16-tae-v45-console-v22-handoff.md
+- **Updated:** 2026-09-16T20:57:46Z
 - **Status:** active
-- **Conversation/project:** sheldrake-field-project-maglab-ftps-fetch
+- **Conversation/project:** sheldrake-field-project-tae-console
 
-Analyzer v53 FTPS-first run fetching, deployment state, verification, and the initial HTTPS backoff timing gotcha.
+Canonical scoring lock, console v22 cleanup, TAE v45 and analyzer v55 release state, live verification, and safe continuation instructions.
 
 ### [TAE v8 planning handoff](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-04-tae-v8-planning-handoff.md)
 
@@ -41,4 +41,8 @@ Records the released v51 one-touch certification flow, recording UI changes, ver
 - **Conversation/project:** maglab-tracfone-noise-2026-08-18
 
 Identifies the Motorola and Samsung handset runs, corrects the raw-noise interpretation, documents the likely low-frequency drift mechanism, and records the pending Analyzer deployment work.
+
+## Superseded or archived
+
+- [MagLab FTPS run-fetch handoff](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-16-maglab-ftps-fetch-handoff.md) - **superseded**; updated 2026-09-16T17:46:53Z
 
