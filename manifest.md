@@ -2,9 +2,18 @@
 
 Canonical discovery page for continuing Future of Inquiry work in a fresh ChatGPT conversation.
 
-**Last updated:** 2026-09-17T17:55:06Z
+**Last updated:** 2026-10-01T12:44:10Z
 
 ## Active handoffs
+
+### [AEP one-minute app, results list, and command center](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-10-01-aep-minute-console-handoff.md)
+
+- **File:** 2026-10-01-aep-minute-console-handoff.md
+- **Updated:** 2026-10-01T12:44:10Z
+- **Status:** active
+- **Conversation/project:** sheldrake-aep-minute-console
+
+Where the AEP minute ZIPs live, how the results console lists them, how the command-center page scores a climb, and the live-page fix that copies new minutes before it decides the phone is silent.
 
 ### [TAE v46 scoring-contract implementation handoff](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-17-tae-v46-scoring-contract-handoff.md)
 
@@ -15,7 +24,7 @@ Canonical discovery page for continuing Future of Inquiry work in a fresh ChatGP
 
 Implementation and release handoff for TAE 46, Analyzer 56, and Results Console 23, preserving existing scoring behavior while adding named contracts and database provenance.
 
-### [Sheldrake Field Project â€” TAE v45 and Results Console v22](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-16-tae-v45-console-v22-handoff.md)
+### [Sheldrake Field Project Ã¢â‚¬â€ TAE v45 and Results Console v22](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-16-tae-v45-console-v22-handoff.md)
 
 - **File:** 2026-09-16-tae-v45-console-v22-handoff.md
 - **Updated:** 2026-09-16T20:57:46Z

@@ -2,6 +2,15 @@
     "schema_version":  1,
     "entries":  [
                     {
+                        "title":  "AEP one-minute app, results list, and command center",
+                        "filename":  "2026-10-01-aep-minute-console-handoff.md",
+                        "url":  "https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-10-01-aep-minute-console-handoff.md",
+                        "description":  "Where the AEP minute ZIPs live, how the results console lists them, how the command-center page scores a climb, and the live-page fix that copies new minutes before it decides the phone is silent.",
+                        "updated_utc":  "2026-10-01T12:44:10Z",
+                        "status":  "active",
+                        "conversation_id":  "sheldrake-aep-minute-console"
+                    },
+                    {
                         "title":  "TAE v46 scoring-contract implementation handoff",
                         "filename":  "2026-09-17-tae-v46-scoring-contract-handoff.md",
                         "url":  "https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-17-tae-v46-scoring-contract-handoff.md",
@@ -11,7 +20,7 @@
                         "conversation_id":  "sheldrake-field-project-tae-v46-scoring-contract"
                     },
                     {
-                        "title":  "Sheldrake Field Project â€” TAE v45 and Results Console v22",
+                        "title":  "Sheldrake Field Project Ã¢â‚¬â€ TAE v45 and Results Console v22",
                         "filename":  "2026-09-16-tae-v45-console-v22-handoff.md",
                         "url":  "https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-09-16-tae-v45-console-v22-handoff.md",
                         "description":  "Canonical scoring lock, console v22 cleanup, TAE v45 and analyzer v55 release state, live verification, and safe continuation instructions.",
