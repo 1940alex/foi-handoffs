@@ -2,9 +2,18 @@
 
 Canonical discovery page for continuing Future of Inquiry work in a fresh ChatGPT conversation.
 
-**Last updated:** 2026-10-01T12:44:10Z
+**Last updated:** 2026-10-05T14:00:00Z
 
 ## Active handoffs
+
+### [AEP climb grade](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-10-05-aep-climb-grade-handoff.md)
+
+- **File:** 2026-10-05-aep-climb-grade-handoff.md
+- **Updated:** 2026-10-05T14:00:00Z
+- **Status:** active
+- **Conversation/project:** aep-climb-grade-2026-10-05
+
+Current AEP collector grade: the noise floor is the middle 300-second desk climb, the climb target is twice that floor, and springback is a half return. The 2x and half-share code is local and not deployed.
 
 ### [AEP one-minute app, results list, and command center](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-10-01-aep-minute-console-handoff.md)
 
