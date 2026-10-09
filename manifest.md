@@ -2,9 +2,18 @@
 
 Canonical discovery page for continuing Future of Inquiry work in a fresh ChatGPT conversation.
 
-**Last updated:** 2026-10-05T14:00:00Z
+**Last updated:** 2026-10-09T12:03:53Z
 
 ## Active handoffs
+
+### [Signal Beyond browser handoff](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-10-09-signal-beyond-browser-handoff.md)
+
+- **File:** 2026-10-09-signal-beyond-browser-handoff.md
+- **Updated:** 2026-10-09T12:03:53Z
+- **Status:** active
+- **Conversation/project:** signal-beyond-browser-handoff
+
+Safe public repository links, verified sync state, and receiving-chat instructions for Signal Beyond.
 
 ### [AEP climb grade](https://raw.githubusercontent.com/1940alex/foi-handoffs/main/handoffs/2026-10-05-aep-climb-grade-handoff.md)
 
